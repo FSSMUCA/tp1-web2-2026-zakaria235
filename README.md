@@ -200,12 +200,12 @@ Ouvrez la console : vous verrez des erreurs. Corrigez **toutes** les erreurs de 
 ```javascript
 // Code à corriger — NE PAS modifier la logique, seulement les noms et la syntaxe
 
-let 1erPrix = 100;
-let deuxieme prix = 80;
-let prix-minimum = 50;
-let var = 200;
-let PrixMaximum = 300;
-let prix_moyen = (1erPrix + deuxieme prix + prix-minimum + var + PrixMaximum) / 5;
+let premierPrix = 100;
+let deuxieme_prix = 80;
+let prix_minimum = 50;
+let troisiemeprix = 200;
+let prixMaximum = 300;
+let prix_moyen = (premierPrix + deuxieme_prix + prix-minimum + var + PrixMaximum) / 5;
 
 console.log("Prix moyen : " + prix_moyen);
 console.log("Le prix minimum est : " + prix-minimum);
